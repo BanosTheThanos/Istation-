@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: Istation-
+    name: Istation
     env: docker
     plan: free
